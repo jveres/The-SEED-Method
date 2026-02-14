@@ -24,7 +24,7 @@ The SEED Method is a lightweight, structured playbook for projects where a singl
 5. Guardrails accumulate — learn from mistakes, then lock them in
 6. Owner decides, agents execute — authority is clear
 7. Stop when stuck — don't guess past a blocker
-8. Learn both ways — capture what went wrong *and* what went right
+8. Learn both ways — capture what went wrong _and_ what went right
 
 ## Quick Start
 
@@ -50,12 +50,12 @@ The method handles the rest: planning, building in verifiable chunks, proof, wor
 
 ## What's in this repo
 
-| File | Description |
-| ---- | ----------- |
-| [`SEED-Method.md`](SEED-Method.md) | The complete SEED Method playbook (v3.5) — this is what you copy into your repo |
-| [`SEED-Method-Cookbook.md`](SEED-Method-Cookbook.md) | Practical patterns for adapting the method to real-world situations |
-| [`CHANGELOG.md`](CHANGELOG.md) | Version history and cumulative changes |
-| [`LICENSE`](LICENSE) | CC BY 4.0 |
+| File                                                 | Description                                                                     |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [`SEED-Method.md`](SEED-Method.md)                   | The complete SEED Method playbook (v3.5) — this is what you copy into your repo |
+| [`SEED-Method-Cookbook.md`](SEED-Method-Cookbook.md) | Practical patterns for adapting the method to real-world situations             |
+| [`CHANGELOG.md`](CHANGELOG.md)                       | Version history and cumulative changes                                          |
+| [`LICENSE`](LICENSE)                                 | CC BY 4.0                                                                       |
 
 ## How it works
 
@@ -64,27 +64,27 @@ Owner provides SEED (vision, constraints, criteria)
         │
         ▼
 ┌─────────────────┐
-│    Bootstrap     │  Set up project, plan, proof mechanism, WORKLOG.md
+│    Bootstrap    │  Set up project, plan, proof mechanism, WORKLOG.md
 └────────┬────────┘
          │
          ▼
 ┌─────────────────┐
-│      Build       │  Work in verifiable, revertible chunks
+│      Build      │  Work in verifiable, revertible chunks
 └────────┬────────┘
          │
          ▼
 ┌─────────────────┐
-│      Prove       │  Every meaningful change has evidence
+│      Prove      │  Every meaningful change has evidence
 └────────┬────────┘
          │
          ▼
 ┌─────────────────┐
-│     Worklog      │  Snapshot + log — the Owner's dashboard
+│     Worklog     │  Snapshot + log — the Owner's dashboard
 └────────┬────────┘
          │
          ▼
 ┌─────────────────┐
-│      Adapt       │  Owner checkpoints, feedback, guardrails evolve
+│      Adapt      │  Owner checkpoints, feedback, guardrails evolve
 └────────┬────────┘
          │
          ▼
