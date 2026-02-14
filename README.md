@@ -1,14 +1,5 @@
 # The SEED Method
 
-```
-  ███████╗███████╗███████╗██████╗
-  ██╔════╝██╔════╝██╔════╝██╔══██╗
-  ███████╗█████╗  █████╗  ██║  ██║
-  ╚════██║██╔══╝  ██╔══╝  ██║  ██║
-  ███████║███████╗███████╗██████╔╝
-  ╚══════╝╚══════╝╚══════╝╚═════╝
-```
-
 **A development methodology for agent-driven projects.**
 One human. Any number of agents. The method keeps it manageable.
 
