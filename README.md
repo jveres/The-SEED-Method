@@ -1,9 +1,10 @@
 # The SEED Method
 
 ```
- ╭─╮╭─╮╭─╮┌─╮
- ╰─╮├─ ├─ │ │
- ╰─╯╰─╯╰─╯└─╯
+ ___  ___ ___ ___
+/ __|| __| __|   \
+\__ \| _|| _|| |) |
+|___/|___|___|___/
 ```
 
 **A development methodology for agent-driven projects.**
