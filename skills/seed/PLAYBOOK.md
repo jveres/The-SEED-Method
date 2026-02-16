@@ -7,7 +7,7 @@ One human. Any number of agents. The method keeps it manageable.
 
 This playbook is stored as `AGENTS.md` in the repo root and is the canonical source of truth for agent behavior.
 
-This repo runs on the SEED Method, version: 3.5
+This repo runs on the SEED Method, version: 3.5.1
 
 ---
 

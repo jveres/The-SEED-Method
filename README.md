@@ -281,7 +281,7 @@ The [SEED Method Cookbook](SEED-Method-Cookbook.md) covers real-world adaptation
 
 ## Version
 
-Current version: **3.5**
+Current version: **3.5.1**
 
 See [`CHANGELOG.md`](CHANGELOG.md) for the full version history.
 

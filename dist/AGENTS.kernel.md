@@ -10,7 +10,7 @@ This playbook is stored as `AGENTS.md` in the repo root.
 This file is the **kernel** (token-efficient). Load the relevant section(s) from `docs/playbook/` on demand.
 If the modular files are not present, use the single-file bundle or install the SEED skill (`jveres/The-SEED-Method@seed`).
 
-This repo runs on the SEED Method, version: 3.5
+This repo runs on the SEED Method, version: 3.5.1
 
 ---
 

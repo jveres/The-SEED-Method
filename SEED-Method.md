@@ -7,7 +7,7 @@ This playbook is typically stored as `AGENTS.md` in a consuming repo
 (repo root). In this source repo, the canonical text is split across
 `SEED-Method.md` (kernel + index) and `docs/playbook/` (sections + appendix).
 
-This repo runs on the SEED Method, version: 3.5
+This repo runs on the SEED Method, version: 3.5.1
 
 ---
 
